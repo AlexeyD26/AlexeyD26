@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Алексей 👋
 
-<!--
-**AlexeyD26/AlexeyD26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Фронтенд-разработчик. Фокусируюсь на создании производительных и отзывчивых веб-приложений.
 
-Here are some ideas to get you started:
+### Стек технологий:
+- **Core:** JavaScript (ES6+), TypeScript, HTML5, CSS3/SCSS
+- **Frameworks & Libraries:** React
+- **Инструменты:** Git, Webpack / Vite, REST API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Сейчас:
+- 🚀 Разрабатываю пет-проект на React + TypeScript
+- 📚 Углубляюсь в алгоритмы и паттерны JavaScript
+
+### Связь:
+- Telegram: [@mythfuse](https://t.me/mythfuse)
